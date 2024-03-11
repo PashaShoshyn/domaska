@@ -1,0 +1,106 @@
+:root{
+    --color-body-white:#FFFFFF;
+    
+    --color-body-black:#212121;
+
+    --color-body-gray:#757575;
+
+    --color-body-black-2:#2F303A;
+
+    --color-body-blue:#2196F3;
+    
+    --color-main-size:#FFFFFF99;
+
+    --color-main-backround:#F5F4FA;
+
+    --color-body-web:#000000;
+}
+
+.header{
+    background-color: var(--color-body-white);
+}
+
+
+.Web{
+    color: var(--color-body-blue);
+    font-size:26px;
+}
+
+.Studio{
+    color:var(--color-body-web);
+    font-size:26px;
+}
+
+.li{
+    color: var(--color-body-black);
+    font-size: 14px;
+}
+
+.li-2{
+    color: var(--color-body-gray);
+    font-size: 14px;
+}
+
+
+.section{
+    background-color: var(--color-body-black-2);
+}
+
+h1{
+    color: var(--color-body-white);
+    font-size: 44px;
+}
+
+.button{
+    background-color: var(--color-body-blue);
+    color: var(--color-body-white);
+    font-size: 16px;
+}
+
+.h3-1{
+    color: var(--color-body-black);
+    font-size:14px;
+}
+
+.p-1{
+color: var(--color-body-gray);
+font-size: 14px;
+}
+
+h2{
+    color: var(--color-body-black);
+    font-size: 36px;
+}
+
+.section-2{
+    background-color: var(--color-main-backround);
+}
+
+.h3-2{
+    color: var(--color-body-black);
+    font-size: 16px;
+}
+
+.p-2{
+    color: var(--color-body-gray);
+    font-size: 16px;
+}
+
+footer{
+    background-color: var(--color-body-black-2);
+}
+
+.Studio-2{
+    color: var(--color-body-white);
+    font-size: 26px;
+}
+
+.address{
+    color: var(--color-body-white);
+    font-size: 14px;
+}
+
+.address-2{
+    color: var(--color-main-size);
+    font-size: 14px;
+}
